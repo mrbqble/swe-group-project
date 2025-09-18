@@ -30,4 +30,8 @@ __pycache__
 # Expo
 .expo/
 
+# Environment variables
+.env
+
+
 
